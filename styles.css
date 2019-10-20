@@ -1,0 +1,13 @@
+html, body{
+  background-color: black;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-size: 24px;
+}
+span{
+  display: inline-block;
+}
+.scroller{
+  position: absolute;
+  bottom: 0;
+}
