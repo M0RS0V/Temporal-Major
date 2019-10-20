@@ -20,8 +20,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     '*',
     '^',
     '!',
-    '#',
-    '♀'
+    '#'
   ];
   var i = 0;
   let a = document.getElementsByClassName('scroller');
